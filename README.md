@@ -1,2 +1,2 @@
-# todp-app
+# todo-app
 Django based web app (CRUD model)
